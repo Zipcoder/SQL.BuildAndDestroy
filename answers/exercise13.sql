@@ -1,0 +1,1 @@
+SELECT * FROM Users WHERE ORDER BY City, Country;

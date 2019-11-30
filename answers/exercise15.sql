@@ -1,0 +1,1 @@
+SELECT * FROM WHERE PostalCode = NOT NULL;
