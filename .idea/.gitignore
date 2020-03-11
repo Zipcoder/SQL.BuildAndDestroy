@@ -1,0 +1,16 @@
+
+# Default ignored files
+/workspace.xml
+
+.idea/*
+*.iml
+*/target/*
+*/target/**
+.classpath
+.project
+.settings/
+
+# Apple files
+*.DS_Store
+.AppleDouble
+.LSOverride
