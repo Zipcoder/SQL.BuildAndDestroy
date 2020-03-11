@@ -1,0 +1,9 @@
+SHOW DATABASES;
+use myNewDB;
+
+SHOW TABLES;
+
+ALTER TABLE Users
+    ADD Birthday DATE;
+
+SELECT * FROM Users;
