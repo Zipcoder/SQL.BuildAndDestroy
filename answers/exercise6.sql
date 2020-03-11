@@ -1,9 +1,7 @@
 SHOW DATABASES;
 use myNewDB;
 
-SHOW TABLES;
-
 ALTER TABLE Users
-    ADD Birthday DATE;
+  DROP COLUMN Birthday;
 
 SELECT * FROM Users;
