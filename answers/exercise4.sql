@@ -1,5 +1,6 @@
 show databases;
-DROP TABLE Users
+
+DROP TABLE Users;
 SHOW TABLES;
 
 
