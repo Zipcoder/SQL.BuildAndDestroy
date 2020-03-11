@@ -1,0 +1,1 @@
+ADD birthday DATE NOT NULL;
