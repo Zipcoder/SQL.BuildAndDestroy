@@ -1,0 +1,1 @@
+UPDATE Users SET City = Edinburgh WHERE City = Scotland;
