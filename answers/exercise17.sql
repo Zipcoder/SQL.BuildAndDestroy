@@ -1,0 +1,4 @@
+Use myNewDB;
+UPDATE STUDENTS SET CITY = "My City";
+UPDATE  STUDENTS SET CITY = "Edinburgh" WHERE COUNTRY = "Scotland";
+SELECT * FROM Students;
