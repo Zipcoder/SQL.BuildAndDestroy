@@ -4571,10 +4571,5 @@
       <DataType>varchar(255)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="1062" parent="352" name="Birthday">
-      <Position>6</Position>
-      <DataType>date|0s</DataType>
-      <ColumnKind>normal</ColumnKind>
-    </column>
   </database-model>
 </dataSource>
