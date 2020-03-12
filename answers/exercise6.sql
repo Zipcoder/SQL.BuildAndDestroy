@@ -1,0 +1,7 @@
+SHOW DATABASES;
+use myNewDB;
+
+ALTER TABLE Users
+  DROP COLUMN Birthday;
+
+SELECT * FROM Users;
