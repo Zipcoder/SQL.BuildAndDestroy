@@ -1,6 +1,6 @@
 Use myNewDB;
 SHOW TABLES;
 
-SELECT * FROM  Students Where CITY = "Philadelphia" OR CITY = "Trenton";
+SELECT * FROM  Students Where CITY IN ("Philadelphia","Trenton");
 
 COMMIT;
