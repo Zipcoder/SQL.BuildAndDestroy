@@ -1,0 +1,3 @@
+Use myNewDB;
+
+SELECT * FROM Students ORDER BY COUNTRY, CITY;
