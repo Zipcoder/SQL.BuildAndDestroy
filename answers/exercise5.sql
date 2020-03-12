@@ -1,7 +1,7 @@
 show databases;
 Use myNewDB;
 
-TRUNCATE TABLE Users;
+DROP TABLE Users;
 
 
 SELECT * FROM Users;
