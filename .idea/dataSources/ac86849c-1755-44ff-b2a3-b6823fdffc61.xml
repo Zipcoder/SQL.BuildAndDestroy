@@ -1330,7 +1330,7 @@
     <view id="351" parent="2" name="VIEW_TABLE_USAGE">
       <System>1</System>
     </view>
-    <table id="352" parent="3" name="Users"/>
+    <table id="352" parent="3" name="Students"/>
     <column id="353" parent="279" name="USER">
       <Position>1</Position>
       <DataType>varchar(97)|0s</DataType>
