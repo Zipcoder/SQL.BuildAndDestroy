@@ -1,0 +1,1 @@
+SELECT PostalCode FROM Students;

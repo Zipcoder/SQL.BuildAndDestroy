@@ -1,0 +1,1 @@
+INSERT INTO Students(StudentName, Address, PostalCode, Country) VALUES ('Jane Doe',  '57 Union st', 'G13RB', 'Glasgow, Scotland');
